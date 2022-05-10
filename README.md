@@ -5,8 +5,8 @@ Este projeto está estruturado com os assuntos relacionados às estruturas condi
 **Aulas**
 
 *[Aula 1 - Operadores e if ](https://github.com/ifpb-disciplinas-2022-1/controle-algoritmos-condicionais/commit/c4c197855943eb5d53ab4c7a1c057f334c1185aa)*
-<!-- 
-*[Aula 2 - Ternário e switch-case ](https://github.com/ifpb-disciplinas-2022-1/controle-algoritmos-condicionais/commit/)*  -->
+
+*[Aula 2 - Ternário e switch-case ](https://github.com/ifpb-disciplinas-2022-1/controle-algoritmos-condicionais/commit/767fe0326b160bc26df96780089dcf9972b25cc2)*  
 
 
 # Atividade prática
